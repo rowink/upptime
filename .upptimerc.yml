@@ -9,10 +9,6 @@ sites:
     url: https://m.exi.ink/
   - name: lab
     url: https://exi.software/
-  - name: 博客
-    url: https://exi.ink/
-  - name: %E5%8D%9A%E5%AE%A2
-    url: https://exi.ink/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
