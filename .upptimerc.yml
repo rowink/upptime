@@ -16,7 +16,7 @@ sites:
   - name: Ecloud
     url: https://drive.exi.software/
   - name: picture bed
-    url: https://pic.exi.software/
+    url: https://pic.exi.software/api/imgs
   - name: short link
     url: https://short.exi.software/
   - name: lingva translate
