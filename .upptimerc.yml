@@ -7,8 +7,19 @@ sites:
     url: https://exi.software/
   - name: blog
     url: https://exi.ink/
-  - name: Note
+  - name: note
     url: https://m.exi.ink/
+  - name: monitor
+    url: https://status.exi.software/
+  - name: github proxy
+    url: https://git.exi.software/
+  - name: Ecloud
+    url: https://drive.exi.software/
+  - name: picture bed
+    url: https://pic.exi.software/
+  - name: short link
+    url: https://short.exi.software/
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
