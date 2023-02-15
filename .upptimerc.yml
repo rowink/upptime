@@ -16,7 +16,9 @@ sites:
   - name: Ecloud
     url: https://drive.exi.software/
   - name: picture bed
-    url: https://pic.exi.software/api/imgs
+    url: https://pic.exi.software/
+    expectedStatusCodes:
+      - 401
   - name: short link
     url: https://short.exi.software/
   - name: lingva translate
