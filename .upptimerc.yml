@@ -21,8 +21,6 @@ sites:
       - 401
   - name: short link
     url: https://short.exi.software/
-  - name: lingva translate
-    url: https://translate.exi.software/
   - name: cloud notepad
     url: https://note.exi.software
   - name: txtable
