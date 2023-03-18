@@ -15,6 +15,8 @@ sites:
     url: https://git.exi.software/
   - name: Ecloud
     url: https://drive.exi.software/
+  - name: chatGPT demo
+    url: https://chat.exi.software/
   - name: picture bed
     url: https://pic.exi.software/
     expectedStatusCodes:
