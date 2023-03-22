@@ -124,19 +124,19 @@
     "url": "https://chat.exi.software/",
     "icon": "https://icons.duckduckgo.com/ip3/chat.exi.software.ico",
     "slug": "chat-gpt-demo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 741,
-    "timeDay": 1730,
-    "timeWeek": 741,
-    "timeMonth": 741,
-    "timeYear": 741,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 719,
+    "timeDay": 1328,
+    "timeWeek": 719,
+    "timeMonth": 719,
+    "timeYear": 719,
     "dailyMinutesDown": {
-      "2023-03-22": 0
+      "2023-03-22": 10
     }
   },
   {
