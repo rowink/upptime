@@ -1,7 +1,7 @@
 url: https://drive.exi.software/
-status: up
-code: 200
-responseTime: 1944
-lastUpdated: 2023-06-11T23:08:52.247Z
+status: down
+code: 500
+responseTime: 4769
+lastUpdated: 2023-06-13T18:51:03.365Z
 startTime: Wed Feb 15 2023 06:12:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
