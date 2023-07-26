@@ -28,19 +28,19 @@
     "url": "https://exi.ink/",
     "icon": "https://icons.duckduckgo.com/ip3/exi.ink.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 389,
-    "timeDay": 194,
-    "timeWeek": 266,
-    "timeMonth": 356,
-    "timeYear": 389,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 388,
+    "timeDay": 192,
+    "timeWeek": 256,
+    "timeMonth": 350,
+    "timeYear": 388,
     "dailyMinutesDown": {
-      "2023-07-26": 1
+      "2023-07-26": 24
     }
   },
   {
