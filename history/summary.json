@@ -28,9 +28,9 @@
     "url": "https://exi.ink/",
     "icon": "https://icons.duckduckgo.com/ip3/exi.ink.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -39,7 +39,9 @@
     "timeWeek": 266,
     "timeMonth": 356,
     "timeYear": 389,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 1
+    }
   },
   {
     "name": "note",
