@@ -31,6 +31,8 @@ sites:
     url: https://qrcode.exi.software/
   - name: utxt
     url: https://txt.exi.software/
+  - name: devkit
+    url: https://devkit.exi.software/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
