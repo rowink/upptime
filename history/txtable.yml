@@ -1,7 +1,7 @@
 url: https://table.exi.software/
-status: up
-code: 200
-responseTime: 193
-lastUpdated: 2023-10-29T23:08:12.122Z
+status: down
+code: 500
+responseTime: 424
+lastUpdated: 2023-10-30T20:09:30.084Z
 startTime: 2023-02-15T06:15:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
