@@ -1,7 +1,7 @@
 url: https://txt.exi.software/
-status: up
-code: 200
-responseTime: 222
-lastUpdated: 2023-10-29T23:08:13.025Z
+status: down
+code: 500
+responseTime: 121
+lastUpdated: 2023-10-30T20:09:32.186Z
 startTime: 2023-02-15T06:15:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
