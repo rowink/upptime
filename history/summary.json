@@ -130,9 +130,9 @@
     "url": "https://chat.exi.software/",
     "icon": "https://icons.duckduckgo.com/ip3/chat.exi.software.ico",
     "slug": "chat-gpt-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,7 +141,9 @@
     "timeWeek": 455,
     "timeMonth": 375,
     "timeYear": 485,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "picture bed",
@@ -255,11 +257,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/txt.exi.software.ico",
     "slug": "utxt",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.88%",
     "time": 150,
     "timeDay": 222,
     "timeWeek": 175,
