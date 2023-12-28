@@ -275,17 +275,19 @@
     "url": "https://devkit.exi.software/",
     "icon": "https://icons.duckduckgo.com/ip3/devkit.exi.software.ico",
     "slug": "devkit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 87,
-    "timeWeek": 363,
-    "timeMonth": 248,
-    "timeYear": 234,
-    "dailyMinutesDown": {}
+    "time": 279,
+    "timeDay": 3668,
+    "timeWeek": 1224,
+    "timeMonth": 473,
+    "timeYear": 279,
+    "dailyMinutesDown": {
+      "2023-12-28": 0
+    }
   }
 ]
