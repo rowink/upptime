@@ -9,8 +9,6 @@ sites:
     url: https://exi.ink/
   - name: note
     url: https://m.exi.ink/
-  - name: monitor
-    url: https://status.exi.software/
   - name: github proxy
     url: https://git.exi.software/
   - name: Ecloud
