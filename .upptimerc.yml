@@ -31,11 +31,13 @@ sites:
     url: https://txt.exi.software/
   - name: devkit
     url: https://devkit.exi.software/
+  - name: status
+    url: https://status.exi.software/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.exi.software
+  cname: upptime.exi.software
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
