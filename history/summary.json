@@ -66,9 +66,9 @@
     "url": "https://e.exi.ink/",
     "icon": "https://icons.duckduckgo.com/ip3/e.exi.ink.ico",
     "slug": "ego",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -77,7 +77,9 @@
     "timeWeek": 426,
     "timeMonth": 447,
     "timeYear": 447,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-16": 0
+    }
   },
   {
     "name": "github proxy",
@@ -275,17 +277,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.exi.software.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "72.78%",
-    "uptimeDay": "100.00%",
+    "uptime": "73.93%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.79%",
-    "uptimeYear": "72.78%",
+    "uptimeMonth": "95.96%",
+    "uptimeYear": "73.93%",
     "time": 264,
     "timeDay": 322,
     "timeWeek": 262,
     "timeMonth": 264,
     "timeYear": 264,
     "dailyMinutesDown": {
+      "2024-01-16": 0,
       "2023-12-31": 333,
       "2023-12-30": 611,
       "2023-12-28": 16,
