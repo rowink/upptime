@@ -1,7 +1,7 @@
 url: https://git.exi.software/
-status: up
-code: 200
-responseTime: 209
-lastUpdated: 2024-02-20T23:08:43.052Z
+status: down
+code: 429
+responseTime: 251
+lastUpdated: 2024-02-21T19:21:11.613Z
 startTime: 2023-02-15T06:12:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
