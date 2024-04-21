@@ -4,9 +4,9 @@
     "url": "https://exi.software/",
     "icon": "https://icons.duckduckgo.com/ip3/exi.software.ico",
     "slug": "lab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -16,6 +16,7 @@
     "timeMonth": 830,
     "timeYear": 404,
     "dailyMinutesDown": {
+      "2024-04-21": 0,
       "2023-07-07": 275,
       "2023-07-06": 37,
       "2023-06-20": 16
@@ -267,8 +268,8 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.exi.software.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "95.10%",
-    "uptimeDay": "100.00%",
+    "uptime": "95.11%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "98.08%",
@@ -278,6 +279,7 @@
     "timeMonth": 430,
     "timeYear": 390,
     "dailyMinutesDown": {
+      "2024-04-21": 0,
       "2024-04-03": 38,
       "2024-02-22": 230,
       "2024-02-21": 1395,
