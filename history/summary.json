@@ -48,9 +48,9 @@
     "url": "https://m.exi.ink/",
     "icon": "https://icons.duckduckgo.com/ip3/m.exi.ink.ico",
     "slug": "note",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -59,7 +59,9 @@
     "timeWeek": 431,
     "timeMonth": 442,
     "timeYear": 458,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-04": 0
+    }
   },
   {
     "name": "Ego",
@@ -267,17 +269,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.exi.software.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "95.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptime": "95.63%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.28%",
+    "uptimeYear": "98.29%",
     "time": 390,
     "timeDay": 267,
     "timeWeek": 414,
     "timeMonth": 445,
     "timeYear": 390,
     "dailyMinutesDown": {
+      "2024-05-04": 1,
       "2024-04-03": 38,
       "2024-02-22": 230,
       "2024-02-21": 1395,
