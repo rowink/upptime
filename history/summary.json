@@ -14,7 +14,7 @@
     "timeDay": 281,
     "timeWeek": 412,
     "timeMonth": 462,
-    "timeYear": 454,
+    "timeYear": 455,
     "dailyMinutesDown": {
       "2023-07-07": 275,
       "2023-07-06": 37
@@ -74,7 +74,7 @@
     "time": 471,
     "timeDay": 88,
     "timeWeek": 346,
-    "timeMonth": 481,
+    "timeMonth": 392,
     "timeYear": 471,
     "dailyMinutesDown": {}
   },
@@ -185,18 +185,20 @@
     "url": "https://table.exi.software/",
     "icon": "https://icons.duckduckgo.com/ip3/table.exi.software.ico",
     "slug": "txtable",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 90,
-    "timeWeek": 236,
-    "timeMonth": 203,
+    "timeDay": 95,
+    "timeWeek": 219,
+    "timeMonth": 200,
     "timeYear": 177,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-20": 0
+    }
   },
   {
     "name": "qrcode",
@@ -263,17 +265,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.exi.software.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "96.81%",
-    "uptimeDay": "100.00%",
+    "uptime": "96.83%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.79%",
+    "uptimeYear": "98.80%",
     "time": 424,
     "timeDay": 610,
     "timeWeek": 540,
     "timeMonth": 518,
     "timeYear": 424,
     "dailyMinutesDown": {
+      "2024-06-20": 0,
       "2024-04-03": 38,
       "2024-02-22": 230,
       "2024-02-21": 1395,
